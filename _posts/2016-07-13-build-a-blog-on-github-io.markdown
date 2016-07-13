@@ -44,6 +44,7 @@ Jekyll基于Ruby，几个简单的步骤可以让你快速搭建本地环境。(
 
 ### 学会使用Jekyll
 看Jekyll的文档：
+
 - [目录结构][jekyll structure]，了解Jekyll的目录结构，命名方式等。
 - [配置][configuration]，了解Jekyll的配置，包括一些全局配置(某些和命令行参数起相同作用)，markdown配置等。文档中还结合一些语法，如if来说明配置的作用。
 - [撰写博客][posts]，学习写第一篇博客
