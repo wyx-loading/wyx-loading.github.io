@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Wyx-Loading
+email: wyx.loading@aliyun.com
+description: > # this means to ignore newlines until "baseurl:"
+  A building blog, a building life.
+  一名小小程序员
+  Java/Cpp/Python/Mysql/...
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://wyx-loading.github.io" # the base hostname & protocol for your site
+github_username:  wyx-loading
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
