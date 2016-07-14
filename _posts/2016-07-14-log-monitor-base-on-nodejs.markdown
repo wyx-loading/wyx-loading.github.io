@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  log monitor base on nodejs
+title:  基于Nodejs的日志监控工具——Log.io
 date:   2016-07-14 14:47:00 +0800
 categories: ['blog', 'nodejs']
 ---
 
-## 基于Nodejs的log监控工具--[Log.io][Log.io site]
+## [Log.io][Log.io site]
 
 ### 介绍
 
@@ -16,8 +16,6 @@ categories: ['blog', 'nodejs']
  - harvester负责监控日志文件的变化并且将变更通过tcp发送到server。也支持自定义的harvester，只需要按照server接口格式包装消息即可。  
  - 一个server可以对应多个harvester。  
  - 提供的harvester实现，通过简单的配置即可使用。  
-
----
 
 ### 为什么要用
 

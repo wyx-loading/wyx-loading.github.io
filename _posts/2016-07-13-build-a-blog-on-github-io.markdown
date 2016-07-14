@@ -1,11 +1,9 @@
 ---
 layout:	post
-title: 	Build a blog on github.io
+title: 	在Github Pages上建立自己的blog
 date:	2016-07-13 13:45:00 +0800
 categories:	['blog', 'jekyll']
 ---
-
-## 在[GitHub Pages][Github Pages]上建立自己的blog
 
 简单几步即可申请到一个个人页面。（Github给每个用户提供的服务，one allow per user）
 我们主要是看，[**Blogging with Jekyll**][Blogging with Jekyll]
