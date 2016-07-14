@@ -5,9 +5,7 @@ date:   2016-07-14 14:47:00 +0800
 categories: ['blog', 'nodejs']
 ---
 
-## 基于Nodejs的log监控工具--Log.io
-
-[Log.io][Log.io site]  
+## 基于Nodejs的log监控工具--[Log.io][Log.io site]
 
 ### 介绍
 
