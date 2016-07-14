@@ -10,7 +10,7 @@ categories: ['blog', 'hadoop']
 参照 [Build and Install Hadoop 2.x or newer on Windows][Build and Install Hadoop 2.x or newer on Windows]
 
 ---
-
+<br/>
 按照wiki执行到
 
 `hdfs name node -format`
