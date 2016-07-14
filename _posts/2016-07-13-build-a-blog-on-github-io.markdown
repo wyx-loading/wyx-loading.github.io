@@ -10,6 +10,8 @@ categories:	['blog', 'jekyll']
 简单几步即可申请到一个个人页面。（Github给每个用户提供的服务，one allow per user）
 我们主要是看，[**Blogging with Jekyll**][Blogging with Jekyll]
 
+---
+
 ## Blogging with Jekyll
 
 >Like GitHub Pages, Jekyll is self-aware, so if you add folders and files following specific naming conventions, when you commit to GitHub, Jekyll will magically build your website.
@@ -56,6 +58,7 @@ Jekyll还有很多功能，本文没有介绍到，这个会边改进本博客�
 比如模板、集合、插件、主题等。
 
 [Github Pages]: https://pages.github.com/
+[Blogging with Jekyll]: http://jmcglone.com/guides/github-pages/
 [Jekyll en]: https://jekyllrb.com/
 [Jekyll cn]: http://jekyllcn.com/
 [github pages guides]: http://jmcglone.com/guides/github-pages/
