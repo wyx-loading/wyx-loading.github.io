@@ -19,3 +19,4 @@ github_username:  wyx-loading
 # Build settings
 markdown: kramdown
 highlighter: rouge
+theme: jekyll-theme-minimal
